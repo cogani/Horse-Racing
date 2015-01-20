@@ -1,6 +1,6 @@
 # Horse-Racing
 
-To highlith:
+To highlight:
  * hr.game,  hr.results: Separation between game and displaying of the results. Game and all their components are not responsable of display any result. This task is delegated to componentes inside the pakage hr.results 
  * SRP: Each component has to have only one responsability. This's valid for class and methods
  * Clean code (following guides by Uncle Bob)
